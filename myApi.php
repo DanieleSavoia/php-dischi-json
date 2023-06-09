@@ -1,7 +1,7 @@
 <?php
 $disk = [
     [
-        'photo' => 'img/metal_lifting.jpg',
+        'photo' => 'foto',
         'name' => 'name',
         'artist_name' => 'namename',
         'year' => '1900'
